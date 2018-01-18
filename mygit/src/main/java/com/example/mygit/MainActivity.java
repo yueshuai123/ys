@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         String mStr="aaaa";
 
         String mS11="冲突";
+
+        String aa="冲突";
     }
 }
