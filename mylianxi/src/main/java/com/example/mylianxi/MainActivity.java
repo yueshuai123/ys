@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         String mStr="冲突";
 
         String mm="aaa";
+
+        String fen="开始分支";
     }
 }
