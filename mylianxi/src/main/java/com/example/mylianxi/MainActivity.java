@@ -15,5 +15,8 @@ public class MainActivity extends AppCompatActivity {
         String mm="aaa";
 
         String fen="开始分支";
+        String fen1="开始分支";
+        String fen2="开始分支";
+        String fen3="开始分支";
     }
 }
