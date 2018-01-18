@@ -11,9 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String mStr="aaaa";
 
-        String mS11="冲突";
 
-        String aa="冲突";
-        String asa="冲突";
     }
 }
